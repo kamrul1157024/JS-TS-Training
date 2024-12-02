@@ -3,6 +3,7 @@
 ## Install jupyter notebook:
 ```
 pyenv virtualenv 3.11 js-notebook
+pyenv activate js-notebook
 pip3 install jupyter
 ```
 [https://docs.jupyter.org/en/latest/install/notebook-classic.html](https://docs.jupyter.org/en/latest/install/notebook-classic.html)
