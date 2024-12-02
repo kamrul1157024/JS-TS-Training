@@ -1,6 +1,0 @@
-# Javascript Concepts
-
-## Modules:
-
-f
-
