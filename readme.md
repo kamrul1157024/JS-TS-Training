@@ -12,6 +12,7 @@ pip3 install jupyter
 
 ## Setup Deno:
 [https://docs.deno.com/runtime/getting_started/installation/](https://docs.deno.com/runtime/getting_started/installation/)
+
 For macos: `curl -fsSL https://deno.land/install.sh | sh`
 
 ## Setup Deno Kernal:
