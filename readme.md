@@ -1,5 +1,5 @@
 # Setup:
-
+To Find the Session Slides [Click Here](https://docs.google.com/presentation/d/1wY1Wg98byqshZKg0iCfvOHjjNi17zvbLuzdOvh-u_Bk/edit?usp=sharing)
 ## Install jupyter notebook:
 ```
 pyenv install 3.11
@@ -26,3 +26,7 @@ cd <intern-js-ts-repo-path>
 deno jupyter --unstable
 jupyter notebook
 ```
+
+## Homework:
+- Work write a async iterator to iterate over paginated response in for loop [using this dummy data API and Typescript](https://dummyjson.com/docs/posts#posts-limit_skip)
+- Iterate over DOM using BFS and print the node in level order without blocking CPU thread
