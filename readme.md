@@ -18,7 +18,6 @@ For macos: `curl -fsSL https://deno.land/install.sh | sh`
 ## Setup Deno Kernal:
 ```
 deno jupyter --unstable --install
-
 ```
 
 ## Running the Notebook:
